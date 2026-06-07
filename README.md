@@ -1,0 +1,1 @@
+This repository contains a comprehensive collection of Java programming labs solutions completed as part of semester coursework. It includes well-structured programs covering fundamental to advanced concepts of OOP (object-oriented programming) such as control structures, arrays, functions, and problem-solving techniques.
