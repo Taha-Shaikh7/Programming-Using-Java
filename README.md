@@ -26,7 +26,7 @@ The purpose of this repository is to demonstrate understanding of Java programmi
 - Practical implementation of OOP principles
 
 ## Technologies Used
-- Java (Core Java)
+- Java (OOP concept)
 - IDE used (Visual Studio)
 
 ## Learning Outcomes
